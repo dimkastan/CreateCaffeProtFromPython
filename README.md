@@ -1,8 +1,8 @@
 # CreateCaffeProtFromPython
-A library for creating caffe prototxt models using Python
-This repo will hold a Python library that will allow the creation of prototxt programmatistically.
-Currently the library is under preparation, but for anyone who is interested into using Caffe Python bindings here is a simple example to do this. 
-P.S. In the future I will add the corresponding code to achieve this will.
+Samples creating caffe prototxt models using Python
+This repo will hold a number of Python samples that will allow the creation of prototxt programmatistically.
+P.S. Initially, I was developing a wrapper to that would allow to export the model in every language. As it seems Keras moved too fast and released wrappers for many frameworks, so this is not usefull any more.
+
 
 ```python
 # General Example
